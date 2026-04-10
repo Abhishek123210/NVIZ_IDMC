@@ -1,0 +1,49 @@
+{
+  "objectInfo" : {
+    "id" : "1bNQK9jc14mcwnFQsOPnsj",
+    "name" : "Test Business Entity",
+    "type" : "MDM_BUSINESS_ENTITY",
+    "providerName" : "MDM",
+    "providerLevelValidator" : {
+      "solutionsToValidate" : { },
+      "additionalSolutionsInSource" : {
+        "b360" : {
+          "version" : "202604.01"
+        },
+        "c360" : {
+          "version" : "202604.01"
+        },
+        "p360" : {
+          "version" : "202208.01"
+        },
+        "mde" : {
+          "version" : "202211.01"
+        },
+        "s360" : {
+          "version" : "202211.01"
+        }
+      },
+      "vaderMigrationStatus" : "NOT_STARTED"
+    },
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 1
+      },
+      "repoInfo" : {
+        "repoHandle" : "test_business_entity"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "updateTime" : "2026-04-10T13:32:08.020Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
