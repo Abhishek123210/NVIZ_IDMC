@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "7Fk0mTGZpo8eM2jZC3UjWi",
+    "name" : "Himalaya Material Master Data Profile",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "f12f4922-2e40-480e-b723-e8b9b089bffe"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2026-04-10T06:49:34.035Z",
+  "objectRefs" : [ {
+    "id" : "5ku2gH1kuJJit9kzPbrcaI",
+    "name" : "AM_Flat_File_Connection_src",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010RLM0B00000000000A"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "AbhishekMandal_Flat File Connection_Source",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
