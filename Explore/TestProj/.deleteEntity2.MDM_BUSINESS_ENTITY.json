@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "9wng3ytWtzojrqwxfjvrcg",
-    "name" : "deleteMeEntity",
+    "id" : "1KNXxvex7vWlYAigeGcDcO",
+    "name" : "deleteEntity2",
     "type" : "MDM_BUSINESS_ENTITY",
     "providerName" : "MDM",
     "providerLevelValidator" : {
@@ -31,7 +31,7 @@
         "minor" : 1
       },
       "repoInfo" : {
-        "repoHandle" : "deletemeentity"
+        "repoHandle" : "deleteentity2"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -42,7 +42,7 @@
     }
   },
   "dataFileExtension" : "dat",
-  "updateTime" : "2026-04-11T12:12:33.591Z",
+  "updateTime" : "2026-04-11T11:32:56.409Z",
   "objectRefs" : [ ],
   "readableFileExtension" : null,
   "readableFilePresent" : false
