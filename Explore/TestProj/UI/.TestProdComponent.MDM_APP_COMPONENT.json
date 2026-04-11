@@ -1,0 +1,99 @@
+{
+  "objectInfo" : {
+    "id" : "i7yfk5DuKKsiSMnUgqPbQQ",
+    "name" : "TestProdComponent",
+    "type" : "MDM_APP_COMPONENT",
+    "providerName" : "MDM",
+    "providerLevelValidator" : {
+      "solutionsToValidate" : {
+        "r360" : {
+          "version" : "default"
+        }
+      },
+      "additionalSolutionsInSource" : {
+        "b360" : {
+          "version" : "202604.01"
+        },
+        "c360" : {
+          "version" : "202604.01"
+        },
+        "p360" : {
+          "version" : "202208.01"
+        },
+        "mde" : {
+          "version" : "202211.01"
+        },
+        "s360" : {
+          "version" : "202211.01"
+        }
+      },
+      "vaderMigrationStatus" : "NOT_STARTED"
+    },
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 1
+      },
+      "repoInfo" : {
+        "repoHandle" : "testprodcomponent"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "updateTime" : "2026-04-11T09:43:26.120Z",
+  "objectRefs" : [ {
+    "id" : "iUwb5vK73iRcFmOKMHKhUa",
+    "name" : "TestProd",
+    "type" : "MDM_BUSINESS_ENTITY",
+    "providerName" : "MDM",
+    "providerLevelValidator" : {
+      "solutionsToValidate" : {
+        "r360" : {
+          "version" : "default"
+        }
+      },
+      "additionalSolutionsInSource" : {
+        "b360" : {
+          "version" : "202604.01"
+        },
+        "c360" : {
+          "version" : "202604.01"
+        },
+        "p360" : {
+          "version" : "202208.01"
+        },
+        "mde" : {
+          "version" : "202211.01"
+        },
+        "s360" : {
+          "version" : "202211.01"
+        }
+      },
+      "vaderMigrationStatus" : "NOT_STARTED"
+    },
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 1
+      },
+      "repoInfo" : {
+        "repoHandle" : "testprod"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Test Product",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/Explore/TestProj"
+  } ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
