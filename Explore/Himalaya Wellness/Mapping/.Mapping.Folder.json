@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "4WkUPcZtUIOfYhm8SlN0UN",
-    "name" : "Mappings",
+    "name" : "Mapping",
     "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
@@ -18,7 +18,7 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2026-04-14T12:02:47.819Z",
+  "updateTime" : "2026-04-14T12:23:07.091Z",
   "objectRefs" : [ ],
   "readableFileExtension" : null,
   "readableFilePresent" : false
